@@ -1,134 +1,58 @@
 
 <h1 align="center">Hi , I'm Krishna Vig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vigkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="vigkrishna" /> </p>
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">Sophomore at Thapar Institute of Engineering and Technology, Patiala pursuing B.E. in CSE. <br>
-  I like to Code, Design, Innovate and Experiment. <br>I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+</p> -->
+<!-- <hr/> -->
+<h3 align="center">
+  I'm a passionate final-year Computer Science student at Thapar University, specializing in software development, machine learning, and scalable systems.<br><br> Welcome to my GitHub profile! <br>Here you will find a showcase of my projects, skills, and contributions to the open-source community.</h4>
 <br>
 
+## 🚀 About Me
 
-## 🔥 Streak Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vigkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="vigkrishna" /> </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=vigkrishna&theme=halloween&border_radius=10" alt="kv stats"  /></p>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
- 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  
- 
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-    &emsp;
-    <a href="https://react.dev/" target="_blank"> 
-    <img alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    
-  
-     
-</p>
-  
-### 👉 Backend Development
- 
-  <p align="left">
-    &emsp;
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-     &emsp;
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express JS"/>
-     &emsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-     &emsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+- 🎓 **Education**: 4th Year Computer Science Student at Thapar Institute of Engineering and Technology, Patiala, Punjab
+- 💻 **Programming Languages**: Python, Java, C++, JavaScript
+- 🌐 **Web Development**: HTML, CSS, JavaScript, React.js
+- 🤖 **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- 🛠 **Tools & Technologies**: Git, GitHub, Docker, JIRA, Unix/Linux
+- 📚 **Interests**: Machine Learning, Data Science, Distributed Systems, Software Design
+- 🎮 **Hobbies**: Coding, Participating in Hackathons, Contributing to Open Source
 
 
-  
- ### 👉 Software & Tools
- 
-<p>
- 
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
 
-<br/>
-
-## 📊 Github Stats (Expand to View) 
+## Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vigkrishna&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigkrishna&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vigkrishna" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+## 📫 How to Reach Me
+
+- **Email**: [vigkrishnawork@gmail.com]
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/krishna-vig-300304kv)
+- **GitHub**: [GitHub Profile](https://github.com/vigkrishna)
+- **Portfolio**: [Portfolio Website](https://vigkrishna.netlify.app/)
+
+## 🌐 Social
+
+- [Instagram](https://www.instagram.com/vigkrishna)
+- [Medium](https://medium.com/@vigkrishna)
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/vigkrishna"><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vigkrishna&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+## 📊 GitHub Stats
 
-</details>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigkrishna&show_icons=true&theme=radical)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigkrishna&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vigkrishna&theme=radical)
+
+![](https://github-profile-trophy.vercel.app/?username=vigkrishna&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
 
 <hr/>
 
-* Credit: [Krishna Vig](https://github.com/vigkrishna)
-* Last Edited on: 29/06/2023
+<h3 align="center">Thank you for visiting my GitHub profile! Have a great day! 😊</h3>
 
 
 
