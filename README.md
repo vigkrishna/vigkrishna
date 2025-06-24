@@ -11,16 +11,16 @@
 
 ## 🚀 About Me
 
-🎓 Education: Final-year Computer Science student at Thapar Institute of Engineering and Technology, Patiala, Punjab
-💻 Programming Languages: Python, Java, C++, JavaScript
-🌐 Web Development: HTML, CSS, JavaScript, React.js, Streamlit
-🧠 AI & LLMs: Experience with open-source LLMs like Qwen2.5, LangChain, LangGraph for multi-agent systems, and tool orchestration
-📦 Tools & Libraries: LangChain, LangGraph, OpenAI, unstructured, Redis, pgvector, Docker, Git, GitHub, JIRA
-📊 Databases: PostgreSQL with pgvector for embedding storage, Redis for caching and document storage
-🧠 Machine Learning: Scikit-learn, TensorFlow, Keras
-🛠 Other Skills: Distributed Systems, Software Architecture, Unix/Linux
-📚 Interests: Building AI-native applications, Multi-agent systems, Data Science, and Open Source contributions
-🎮 Hobbies: Hackathons, Competitive Programming, Tech Blogging, Open Source Collaboration
+-🎓 Education: Final-year Computer Science student at Thapar Institute of Engineering and Technology, Patiala, Punjab
+-💻 Programming Languages: Python, Java, C++, JavaScript
+-🌐 Web Development: HTML, CSS, JavaScript, React.js, Streamlit
+-🧠 AI & LLMs: Experience with open-source LLMs like Qwen2.5, LangChain, LangGraph for multi-agent systems, and tool orchestration
+-📦 Tools & Libraries: LangChain, LangGraph, OpenAI, unstructured, Redis, pgvector, Docker, Git, GitHub, JIRA
+-📊 Databases: PostgreSQL with pgvector for embedding storage, Redis for caching and document storage
+-🧠 Machine Learning: Scikit-learn, TensorFlow, Keras
+-🛠 Other Skills: Distributed Systems, Software Architecture, Unix/Linux
+-📚 Interests: Building AI-native applications, Multi-agent systems, Data Science, and Open Source contributions
+-🎮 Hobbies: Hackathons, Competitive Programming, Tech Blogging, Open Source Collaboration
 
 
 
