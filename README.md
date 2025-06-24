@@ -9,7 +9,7 @@
   I'm a passionate final-year Computer Science student at Thapar University, specializing in software development, machine learning, and scalable systems.<br><br> Welcome to my GitHub profile! <br>Here you will find a showcase of my projects, skills, and contributions to the open-source community.</h4>
 <br>
 
-## 🚀 About Me
+
 
 ## 🚀 About Me
 
