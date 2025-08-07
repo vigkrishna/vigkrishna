@@ -34,6 +34,7 @@
 - **Email**: [vigkrishnawork@gmail.com]
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/krishna-vig-300304kv)
 - **GitHub**: [GitHub Profile](https://github.com/vigkrishna)
+- **LeetCode**: [LeetCode Profile](https://leetcode.com/TheMindfulMavenKV/)
 - **Portfolio**: [Portfolio Website](https://vigkrishna.netlify.app/)
 
 ## 🌐 Social
